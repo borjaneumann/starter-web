@@ -11,3 +11,6 @@ Sample website with plenty of files for demos. People will love it.
 This is an introduction about git and github.
 
 ## How to contribute
+
+One more line
+This line is not staged.
