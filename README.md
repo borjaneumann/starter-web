@@ -14,6 +14,7 @@ This is an introduction about git and github.
 
 One more line
 This line is not staged.
+Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
