@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alf the alien life form alf@git.anotherplanet
 
 # THANKS
 
