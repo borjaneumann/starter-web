@@ -14,3 +14,7 @@ This is an introduction about git and github.
 
 One more line
 This line is not staged.
+
+### Copyright
+
+2021 Git Training
